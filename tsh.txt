@@ -1,0 +1,5 @@
+This is a part of lab assignment of System Software (IT214) course.
+We were given trace files and the reference shell indicating how 
+the shell we implented should actually behave.
+The empty implementation had to be filled up and all 16 traces should 
+run correctly giving the same output as test-traces.
